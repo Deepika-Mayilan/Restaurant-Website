@@ -1,0 +1,75 @@
+
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHgevtEFFaGcOrsHkSNi-JN6Yhns_06Y50iKUdD5qxQ&usqp=CAU&ec=48665701")
+  }
+  header {
+    float:inline-end;
+    background-color: hsl(243, 82%, 65%);
+    padding: 20px;
+    font-display:initial;
+  }
+  
+  nav ul {
+    list-style:none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #232627;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  #hero {
+   
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+  }
+  
+  #hero h1 {
+    color: aqua;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #about {
+    color:rgb(244, 238, 238);
+  }
+  #menu{
+    color: #fff;
+  }
+  #contact{
+    color: #fff;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #11bb28;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  footer {
+    background-color: brown;
+    padding: 20px;
+    color: #0c0c0c;
+    text-align: center;
+  }
