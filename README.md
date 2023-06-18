@@ -1,2 +1,2 @@
 # Restaurant-Website
-here is the simple website using HTML and CSS
+Here is the simple website using HTML and CSS
